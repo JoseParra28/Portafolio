@@ -28,8 +28,10 @@ section {
 }
 .main-tittle {
     font-size: 3em;
+    color: rgba(255,255, 255, 0.1);
     margin-bottom: 50px;
     border-bottom: 1px solid black;
+    transform: translate(-80px, 50px);
 }
 span {
     font-style:italic;

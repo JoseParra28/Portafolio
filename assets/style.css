@@ -4,12 +4,15 @@
     padding: o;
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
+    
+    
 }
 
 
-
 body {
-   background-color: rgb(25, 24, 24);
+  
+  background: linear-gradient(40deg, #181817, #61614c, rgb(49, 47, 47));
+  background-color: transparent;
   
 }
 

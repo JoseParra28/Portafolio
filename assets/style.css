@@ -10,6 +10,37 @@ body {
    background-color: rgb(25, 24, 24);
   
 }
+
+nav ul {
+    list-style-type: none;
+    margin: 2%;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 2em;
+    text-align: center;
+    color: rgb(65, 64, 64);
+    display: block;
+    padding: 4px;
+}
+
+nav a:hover {
+    background-color: rgb(146, 145, 145);
+    border-radius: 1%;
+}
+
+.hov {
+    color: whitesmoke;
+}
+
+.active {
+    border-bottom: 2px solid #3a3a3a;
+
+}
 .wrapper {
     position: absolute;
     width: 100%;
@@ -21,7 +52,7 @@ body {
     width: 40px;
     height: 40px;
     background-color: transparent;
-    border: 3px solid whitesmoke;
+    border: 3px solid rgb(135, 134, 134);
 }
 .box div:nth-child(1){
     top: 70%;
@@ -112,6 +143,7 @@ section {
 }
 .anim-text span {
     display: inline-block;
+    border-bottom: none;
     font-size: 2em;
     font-weight: 500px;
     -webkit-text-stroke: 1px rgba(227, 224, 221, 0.3);
@@ -168,13 +200,13 @@ section {
     transition-delay: 1.9s;
 }
 
-
 .content {
     position: relative;
     width: 1150px;
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-bottom: 7%;
 }
 .content .image {
     position: relative;
@@ -191,6 +223,13 @@ img {
     object-fit: cover;
     border-radius: 1% 1%;
 }
+.image-1 {
+    position: relative;
+    width: 50%;
+    height: 100vh;
+    overflow: hidden;
+    z-index: 1;
+}
 .content .text-box {
 z-index: 222;
 background-color: rgba(255,255, 255, 0.1);
@@ -204,6 +243,17 @@ transform: translate(-80px, 50px);
     font-size: 2em;
     margin-bottom: 10px;
 }
+.sec-tittle {
+    font-size: 3em;
+    margin-bottom: 0px;
+    color: #716e6e;
+}
+#text-box {
+    font-size: 1em;
+    margin-left: 80px;
+
+}
+
 .social-media {
     margin-top: 100px;
 }

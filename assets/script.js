@@ -1,3 +1,4 @@
+
 let spanTexts = document.getElementsByTagName("span");
 window.onload = function(){
     for(spanText of spanTexts){
@@ -11,4 +12,7 @@ ScrollReveal({
     delay: 400
  });
  ScrollReveal().reveal('.content', { delay: 500 });
+
+ //* Contact *// 
+
 

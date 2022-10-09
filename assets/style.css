@@ -615,19 +615,35 @@ transform: translate(-80px, 50px);
       transform: rotateX(90deg) scale(1) translateZ(0px);
     }
   }
-  .animista-badge {
-    font: normal 15px/1.5 sans-serif;
-    position: absolute;
-    right: 10px;
-    bottom: 10px;
-    color: rgba(255, 255, 255, 0.8);
-    padding: 0.5em 1em;
+  #sec-tittle {
+    font-size: 3em;
+    margin-bottom: -10%;
+    color: #716e6e;
   }
-  a {
-    color: #ff6060;
-    text-decoration: none;
-  }
-  a:hover {
-    text-decoration: underline;
-  }
+ .skills-info {
+  width: 400px;
+  margin-left: -82%;
+ }
+ .skills-info li {
+  list-style: none;
+  font-size: 1.4em;
+  color: rgb(149, 145, 145);
+ }
+ .skills-info li:not(:last-child){
+  margin-bottom: 50px;
+ }
+ .skills-info li:nth-child(1), .skills-info li:nth-child(6) {
+  padding-left: 36%;
+ }
+ .skills-info li:nth-child(2), .skills-info li:nth-child(5) {
+  padding-left: 12%;
+ }
+ .skills-info li:nth-child(3), .skills-info li:nth-child(4) {
+  padding-left: 0%;
+ }
+ 
+ 
+ 
+ 
+
   

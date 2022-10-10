@@ -118,57 +118,57 @@ nav a:hover {
   width: 30px;
   height: 30px;
   background-color: transparent;
-  border: 2px solid rgb(127, 35, 35);
+  border: 2px solid rgb(238, 9, 9);
 }
 .box-color-red div:nth-child(1){
-  top: 70%;
-  left: 100%;
+  top: 10%;
+  left: 90%;
   animation: animate 7s linear infinite;
 }
 .box-color-red div:nth-child(2){
   
-  left: 42%;
-  bottom: 10%;
+  left: 62%;
+  bottom: 50%;
   animation: animate 10s linear infinite;
 }
 .box-color-red div:nth-child(3){
-  top: 42%;
-  left: 24%;
+  top: 24%;
+  left: 64%;
   animation: animate 10s linear infinite;
 }
 .box-color-red div:nth-child(4){
-  top: 92%;
-  left: 52%;
-  animation: animate 10s linear infinite;
-}
-.box-color-red div:nth-child(5){
-  top: 13%;
+  top: 19%;
   left: 32%;
   animation: animate 10s linear infinite;
 }
+.box-color-red div:nth-child(5){
+  top: 63%;
+  left: 92%;
+  animation: animate 10s linear infinite;
+}
 .box-color-red div:nth-child(6){
-  top: 12%;
-  left: 42%;
+  top: 17%;
+  left: 82%;
   animation: animate 10s linear infinite;
 }
 .box-color-red div:nth-child(7){
-  top: 150%;
+  top: 100%;
   left: 32%;
   animation: animate 10s linear infinite;
 }
 .box-color-red div:nth-child(8){
-  top: 82%;
-  left: 52%;
-  animation: animate 10s linear infinite;
-}
-.box-color-red div:nth-child(9){
-  top: 10%;
+  top: 89%;
   left: 62%;
   animation: animate 10s linear infinite;
 }
+.box-color-red div:nth-child(9){
+  top: 19%;
+  left: 42%;
+  animation: animate 10s linear infinite;
+}
 .box-color-red div:nth-child(10){
-  top: 60%;
-  left: 22%;
+  top: 69%;
+  left: 32%;
   animation: animate 10s linear infinite;
 }
 /* Yellow square*/
@@ -180,53 +180,53 @@ nav a:hover {
   border: 2px solid rgb(203, 183, 35);
 }
 .box-color-yellow div:nth-child(1){
-  top: 70%;
-  left: 100%;
+  top: 30%;
+  left: 2%;
   animation: animate 7s linear infinite;
 }
 .box-color-yellow div:nth-child(2){
-  top: 62%;
-  left: 42%;
+  top: 72%;
+  left: 12%;
   animation: animate 10s linear infinite;
 }
 .box-color-yellow div:nth-child(3){
-  top: 42%;
-  left: 24%;
+  top: 47%;
+  left: 14%;
   animation: animate 10s linear infinite;
 }
 .box-color-yellow div:nth-child(4){
-  top: 92%;
-  left: 52%;
+  top: 97%;
+  left: 32%;
   animation: animate 10s linear infinite;
 }
 .box-color-yellow div:nth-child(5){
-  top: 13%;
-  left: 32%;
+  top: 17%;
+  left: 22%;
   animation: animate 10s linear infinite;
 }
 .box-color-yellow div:nth-child(6){
-  top: 12%;
-  left: 42%;
+  top: 10%;
+  left: 2%;
   animation: animate 10s linear infinite;
 }
 .box-color-yellow div:nth-child(7){
-  top: 150%;
-  left: 32%;
+  top: 50%;
+  left: 14%;
   animation: animate 10s linear infinite;
 }
 .box-color-yellow div:nth-child(8){
-  top: 82%;
-  left: 52%;
+  top: 8%;
+  left: 2%;
   animation: animate 10s linear infinite;
 }
 .box-color-yellow div:nth-child(9){
-  top: 10%;
-  left: 62%;
+  top: 19%;
+  left: 32%;
   animation: animate 10s linear infinite;
 }
 .box-color-yellow div:nth-child(10){
-  top: 60%;
-  left: 22%;
+  top: 20%;
+  left: 24%;
   animation: animate 10s linear infinite;
 }
 
@@ -240,53 +240,53 @@ nav a:hover {
   border: 2px solid rgb(61, 31, 231);
 }
 .box-color-blue div:nth-child(1){
-  top: 70%;
-  left: 100%;
+  top: 50%;
+  left: 10%;
   animation: animate 7s linear infinite;
 }
 .box-color-blue div:nth-child(2){
-  top: 62%;
-  left: 42%;
+  top: 6%;
+  left: 82%;
   animation: animate 10s linear infinite;
 }
 .box-color-blue div:nth-child(3){
-  top: 42%;
-  left: 24%;
+  top: 46%;
+  left: 74%;
   animation: animate 10s linear infinite;
 }
 .box-color-blue div:nth-child(4){
-  top: 92%;
-  left: 52%;
+  top: 9%;
+  left: 82%;
   animation: animate 10s linear infinite;
 }
 .box-color-blue div:nth-child(5){
-  top: 13%;
-  left: 32%;
-  animation: animate 10s linear infinite;
-}
-.box-color-blue div:nth-child(6){
-  top: 12%;
-  left: 42%;
-  animation: animate 10s linear infinite;
-}
-.box-color-blue div:nth-child(7){
-  top: 150%;
-  left: 32%;
-  animation: animate 10s linear infinite;
-}
-.box-color-blue div:nth-child(8){
-  top: 82%;
-  left: 52%;
-  animation: animate 10s linear infinite;
-}
-.box-color-blue div:nth-child(9){
-  top: 10%;
+  top: 18%;
   left: 62%;
   animation: animate 10s linear infinite;
 }
+.box-color-blue div:nth-child(6){
+  top: 50%;
+  left: 52%;
+  animation: animate 10s linear infinite;
+}
+.box-color-blue div:nth-child(7){
+  top: 10%;
+  left: 52%;
+  animation: animate 10s linear infinite;
+}
+.box-color-blue div:nth-child(8){
+  top: 8%;
+  left: 82%;
+  animation: animate 10s linear infinite;
+}
+.box-color-blue div:nth-child(9){
+  top: 15%;
+  left: 52%;
+  animation: animate 10s linear infinite;
+}
 .box-color-blue div:nth-child(10){
-  top: 60%;
-  left: 22%;
+  top: 50%;
+  left: 28%;
   animation: animate 10s linear infinite;
 }
 /* Green square*/
@@ -298,53 +298,53 @@ nav a:hover {
   border: 2px solid rgb(68, 170, 34);
 }
 .box-color-green div:nth-child(1){
-  top: 70%;
-  left: 100%;
+  top: 10%;
+  left: 10%;
   animation: animate 7s linear infinite;
 }
 .box-color-green div:nth-child(2){
-  top: 62%;
-  left: 42%;
+  top: 12%;
+  left: 12%;
   animation: animate 10s linear infinite;
 }
 .box-color-green div:nth-child(3){
-  top: 42%;
-  left: 24%;
+  top: 8%;
+  left: 34%;
   animation: animate 10s linear infinite;
 }
 .box-color-green div:nth-child(4){
-  top: 92%;
-  left: 52%;
+  top: 9%;
+  left: 12%;
   animation: animate 10s linear infinite;
 }
 .box-color-green div:nth-child(5){
-  top: 13%;
-  left: 32%;
+  top: 86%;
+  left: 82%;
   animation: animate 10s linear infinite;
 }
 .box-color-green div:nth-child(6){
-  top: 12%;
-  left: 42%;
+  top: 57%;
+  left: 72%;
   animation: animate 10s linear infinite;
 }
 .box-color-green div:nth-child(7){
-  top: 150%;
-  left: 32%;
+  top: 10%;
+  left: 49%;
   animation: animate 10s linear infinite;
 }
 .box-color-green div:nth-child(8){
-  top: 82%;
-  left: 52%;
+  top: 84%;
+  left: 72%;
   animation: animate 10s linear infinite;
 }
 .box-color-green div:nth-child(9){
-  top: 10%;
-  left: 62%;
+  top: 15%;
+  left: 79%;
   animation: animate 10s linear infinite;
 }
 .box-color-green div:nth-child(10){
-  top: 60%;
-  left: 22%;
+  top: 6%;
+  left: 20%;
   animation: animate 10s linear infinite;
 }
 @keyframes animate {
